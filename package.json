@@ -1,0 +1,23 @@
+{
+  "name": "crontab-converter",
+  "version": "1.0.0",
+  "description": "Crontab converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rldona/crontab-converter.git"
+  },
+  "author": "Raúl López Doña <rldona@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rldona/crontab-converter/issues"
+  },
+  "homepage": "https://github.com/rldona/crontab-converter#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
