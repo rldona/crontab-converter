@@ -12,6 +12,10 @@
   },
   "author": "Raúl López Doña <rldona@gmail.com>",
   "license": "ISC",
+  "keywords": [
+    "crontab",
+    "converter"
+  ],
   "bugs": {
     "url": "https://github.com/rldona/crontab-converter/issues"
   },
